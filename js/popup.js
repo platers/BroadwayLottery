@@ -6,13 +6,8 @@ $(document).ready(function() {
 
 const showList = [
   "https://lottery.broadwaydirect.com/show/aladdin/",
-  "https://lottery.broadwaydirect.com/show/cats/",
   "https://lottery.broadwaydirect.com/show/hamilton/",
-  "https://lottery.broadwaydirect.com/show/on-your-feet/",
   "https://lottery.broadwaydirect.com/show/the-lion-king/",
-  "https://lottery.broadwaydirect.com/show/waitress/",
-  "https://lottery.broadwaydirect.com/show/war-paint/",
-  "https://lottery.broadwaydirect.com/show/wicked/"
 ];
 
 const profiles = { "profiles" : [] };
